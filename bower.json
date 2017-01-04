@@ -1,0 +1,19 @@
+{
+  "name": "ReadDirectorysWithPHP5",
+  "authors": [
+    "esaud17 <esaud17@gmail.com>"
+  ],
+  "description": "read files with php",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "config/assets/bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
